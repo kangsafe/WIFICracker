@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\workspace\\WIFICracker\\app\\build\\intermediates\\res\\merged\\release\\drawable\\wifi_signal_open.xml",
+        "source": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\drawable\\wifi_signal_open.xml"
+    },
+    {
+        "merged": "E:\\workspace\\WIFICracker\\app\\build\\intermediates\\res\\merged\\release\\drawable\\wifi_signal.xml",
+        "source": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\drawable\\wifi_signal.xml"
+    },
+    {
+        "merged": "E:\\workspace\\WIFICracker\\app\\build\\intermediates\\res\\merged\\release\\drawable\\wifi_signal_lock.xml",
+        "source": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\drawable\\wifi_signal_lock.xml"
+    }
+]

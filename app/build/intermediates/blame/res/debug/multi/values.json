@@ -1,0 +1,1126 @@
+[
+    {
+        "outputFile": "E:\\workspace\\WIFICracker\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 7,
+                    "endColumn": 17,
+                    "endOffset": 370
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 192,
+                        "startColumn": 2,
+                        "startOffset": 9061,
+                        "endLine": 197,
+                        "endColumn": 17,
+                        "endOffset": 9326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 375,
+                    "endLine": 12,
+                    "endColumn": 17,
+                    "endOffset": 596
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 198,
+                        "startColumn": 2,
+                        "startOffset": 9329,
+                        "endLine": 202,
+                        "endColumn": 17,
+                        "endOffset": 9550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 601,
+                    "endLine": 17,
+                    "endColumn": 17,
+                    "endOffset": 833
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 208,
+                        "startColumn": 2,
+                        "startOffset": 9765,
+                        "endLine": 212,
+                        "endColumn": 17,
+                        "endOffset": 9997
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 838,
+                    "endLine": 25,
+                    "endColumn": 17,
+                    "endOffset": 1241
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 252,
+                        "startColumn": 2,
+                        "startOffset": 11900,
+                        "endLine": 259,
+                        "endColumn": 17,
+                        "endOffset": 12303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1246,
+                    "endLine": 30,
+                    "endColumn": 17,
+                    "endOffset": 1455
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 2,
+                        "startOffset": 9553,
+                        "endLine": 207,
+                        "endColumn": 17,
+                        "endOffset": 9762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1460,
+                    "endLine": 36,
+                    "endColumn": 17,
+                    "endOffset": 1743
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 2,
+                        "startOffset": 6238,
+                        "endLine": 134,
+                        "endColumn": 17,
+                        "endOffset": 6521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1748,
+                    "endLine": 46,
+                    "endColumn": 17,
+                    "endOffset": 2224
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 2,
+                        "startOffset": 1639,
+                        "endLine": 49,
+                        "endColumn": 17,
+                        "endOffset": 2115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2229,
+                    "endLine": 51,
+                    "endColumn": 17,
+                    "endOffset": 2441
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 2,
+                        "startOffset": 8846,
+                        "endLine": 191,
+                        "endColumn": 17,
+                        "endOffset": 9058
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2446,
+                    "endLine": 57,
+                    "endColumn": 17,
+                    "endOffset": 2699
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 2,
+                        "startOffset": 2652,
+                        "endLine": 66,
+                        "endColumn": 17,
+                        "endOffset": 2905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 2704,
+                    "endLine": 62,
+                    "endColumn": 17,
+                    "endOffset": 2951
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 229,
+                        "startColumn": 2,
+                        "startOffset": 10726,
+                        "endLine": 233,
+                        "endColumn": 17,
+                        "endOffset": 10973
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 2956,
+                    "endLine": 67,
+                    "endColumn": 17,
+                    "endOffset": 3177
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 224,
+                        "startColumn": 2,
+                        "startOffset": 10502,
+                        "endLine": 228,
+                        "endColumn": 17,
+                        "endOffset": 10723
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 3182,
+                    "endLine": 78,
+                    "endColumn": 17,
+                    "endOffset": 3713
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 2,
+                        "startOffset": 2118,
+                        "endLine": 60,
+                        "endColumn": 17,
+                        "endOffset": 2649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 3718,
+                    "endLine": 83,
+                    "endColumn": 17,
+                    "endOffset": 3939
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 219,
+                        "startColumn": 2,
+                        "startOffset": 10278,
+                        "endLine": 223,
+                        "endColumn": 17,
+                        "endOffset": 10499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 3944,
+                    "endLine": 92,
+                    "endColumn": 17,
+                    "endOffset": 4372
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 2,
+                        "startOffset": 1208,
+                        "endLine": 39,
+                        "endColumn": 17,
+                        "endOffset": 1636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 4377,
+                    "endLine": 101,
+                    "endColumn": 17,
+                    "endOffset": 4785
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 797,
+                        "endLine": 30,
+                        "endColumn": 17,
+                        "endOffset": 1205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 4790,
+                    "endLine": 110,
+                    "endColumn": 17,
+                    "endOffset": 5251
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 243,
+                        "startColumn": 2,
+                        "startOffset": 11436,
+                        "endLine": 251,
+                        "endColumn": 17,
+                        "endOffset": 11897
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 5256,
+                    "endLine": 117,
+                    "endColumn": 17,
+                    "endOffset": 5561
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 2,
+                        "startOffset": 3215,
+                        "endLine": 80,
+                        "endColumn": 17,
+                        "endOffset": 3520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 5566,
+                    "endLine": 124,
+                    "endColumn": 17,
+                    "endOffset": 5870
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 2,
+                        "startOffset": 2908,
+                        "endLine": 73,
+                        "endColumn": 17,
+                        "endOffset": 3212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 5875,
+                    "endLine": 129,
+                    "endColumn": 17,
+                    "endOffset": 6104
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 156,
+                        "startColumn": 2,
+                        "startOffset": 7477,
+                        "endLine": 160,
+                        "endColumn": 17,
+                        "endOffset": 7706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 6109,
+                    "endLine": 135,
+                    "endColumn": 17,
+                    "endOffset": 6384
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 213,
+                        "startColumn": 2,
+                        "startOffset": 10000,
+                        "endLine": 218,
+                        "endColumn": 17,
+                        "endOffset": 10275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 6389,
+                    "endLine": 143,
+                    "endColumn": 17,
+                    "endOffset": 6754
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 268,
+                        "startColumn": 2,
+                        "startOffset": 12787,
+                        "endLine": 275,
+                        "endColumn": 17,
+                        "endOffset": 13152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 6759,
+                    "endLine": 151,
+                    "endColumn": 17,
+                    "endOffset": 7237
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 260,
+                        "startColumn": 2,
+                        "startOffset": 12306,
+                        "endLine": 267,
+                        "endColumn": 17,
+                        "endOffset": 12784
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 7242,
+                    "endLine": 156,
+                    "endColumn": 17,
+                    "endOffset": 7453
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 2,
+                        "startOffset": 7709,
+                        "endLine": 165,
+                        "endColumn": 17,
+                        "endOffset": 7920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 7458,
+                    "endLine": 161,
+                    "endColumn": 17,
+                    "endOffset": 7668
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 2,
+                        "startOffset": 5483,
+                        "endLine": 116,
+                        "endColumn": 17,
+                        "endOffset": 5693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 7673,
+                    "endLine": 166,
+                    "endColumn": 17,
+                    "endOffset": 7911
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 151,
+                        "startColumn": 2,
+                        "startOffset": 7236,
+                        "endLine": 155,
+                        "endColumn": 17,
+                        "endOffset": 7474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 7916,
+                    "endLine": 170,
+                    "endColumn": 17,
+                    "endOffset": 8073
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 2,
+                        "startOffset": 8525,
+                        "endLine": 182,
+                        "endColumn": 17,
+                        "endOffset": 8682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 8078,
+                    "endLine": 176,
+                    "endColumn": 17,
+                    "endOffset": 8354
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 173,
+                        "startColumn": 2,
+                        "startOffset": 8246,
+                        "endLine": 178,
+                        "endColumn": 17,
+                        "endOffset": 8522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 8359,
+                    "endLine": 183,
+                    "endColumn": 17,
+                    "endOffset": 8668
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 2,
+                        "startOffset": 5926,
+                        "endLine": 128,
+                        "endColumn": 17,
+                        "endOffset": 6235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 8673,
+                    "endLine": 188,
+                    "endColumn": 17,
+                    "endOffset": 8900
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 2,
+                        "startOffset": 5696,
+                        "endLine": 121,
+                        "endColumn": 17,
+                        "endOffset": 5923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 8905,
+                    "endLine": 195,
+                    "endColumn": 17,
+                    "endOffset": 9225
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 166,
+                        "startColumn": 2,
+                        "startOffset": 7923,
+                        "endLine": 172,
+                        "endColumn": 17,
+                        "endOffset": 8243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 9230,
+                    "endLine": 199,
+                    "endColumn": 17,
+                    "endOffset": 9388
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 2,
+                        "startOffset": 8685,
+                        "endLine": 186,
+                        "endColumn": 17,
+                        "endOffset": 8843
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 9393,
+                    "endLine": 205,
+                    "endColumn": 17,
+                    "endOffset": 9642
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 2,
+                        "startOffset": 6524,
+                        "endLine": 140,
+                        "endColumn": 17,
+                        "endOffset": 6773
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 9647,
+                    "endLine": 210,
+                    "endColumn": 17,
+                    "endOffset": 9873
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 2,
+                        "startOffset": 6776,
+                        "endLine": 145,
+                        "endColumn": 17,
+                        "endOffset": 7002
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 9878,
+                    "endLine": 215,
+                    "endColumn": 17,
+                    "endOffset": 10106
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 2,
+                        "startOffset": 7005,
+                        "endLine": 150,
+                        "endColumn": 17,
+                        "endOffset": 7233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 10111,
+                    "endLine": 227,
+                    "endColumn": 17,
+                    "endOffset": 10691
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 2,
+                        "startOffset": 3523,
+                        "endLine": 92,
+                        "endColumn": 17,
+                        "endOffset": 4109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 10696,
+                    "endLine": 239,
+                    "endColumn": 17,
+                    "endOffset": 11486
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 2,
+                        "startOffset": 4112,
+                        "endLine": 104,
+                        "endColumn": 17,
+                        "endOffset": 4928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 240,
+                    "startColumn": 4,
+                    "startOffset": 11491,
+                    "endLine": 248,
+                    "endColumn": 17,
+                    "endOffset": 11948
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 234,
+                        "startColumn": 2,
+                        "startOffset": 10976,
+                        "endLine": 242,
+                        "endColumn": 17,
+                        "endOffset": 11433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 257,
+                    "startColumn": 4,
+                    "startOffset": 13687,
+                    "endColumn": 48,
+                    "endOffset": 13731
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 128,
+                        "endColumn": 48,
+                        "endOffset": 172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 258,
+                    "startColumn": 4,
+                    "startOffset": 13736,
+                    "endColumn": 67,
+                    "endOffset": 13799
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 67,
+                        "endOffset": 122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 259,
+                    "startColumn": 4,
+                    "startOffset": 13804,
+                    "endColumn": 85,
+                    "endOffset": 13885
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1098,
+                        "endColumn": 85,
+                        "endOffset": 1179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 260,
+                    "startColumn": 4,
+                    "startOffset": 13890,
+                    "endColumn": 81,
+                    "endOffset": 13967
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1015,
+                        "endColumn": 81,
+                        "endOffset": 1092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 261,
+                    "startColumn": 4,
+                    "startOffset": 13972,
+                    "endColumn": 56,
+                    "endOffset": 14024
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 951,
+                        "endColumn": 56,
+                        "endOffset": 1003
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 14029,
+                    "endColumn": 51,
+                    "endOffset": 14076
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 582,
+                        "endColumn": 51,
+                        "endOffset": 629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 14081,
+                    "endColumn": 84,
+                    "endOffset": 14161
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 865,
+                        "endColumn": 84,
+                        "endOffset": 945
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 264,
+                    "startColumn": 4,
+                    "startOffset": 14166,
+                    "endColumn": 58,
+                    "endOffset": 14220
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endColumn": 58,
+                        "endOffset": 576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 265,
+                    "startColumn": 4,
+                    "startOffset": 14225,
+                    "endColumn": 96,
+                    "endOffset": 14317
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 424,
+                        "endColumn": 96,
+                        "endOffset": 516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 266,
+                    "startColumn": 4,
+                    "startOffset": 14322,
+                    "endColumn": 55,
+                    "endOffset": 14373
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 184,
+                        "endColumn": 55,
+                        "endOffset": 235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 267,
+                    "startColumn": 4,
+                    "startOffset": 14378,
+                    "endColumn": 55,
+                    "endOffset": 14429
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 241,
+                        "endColumn": 55,
+                        "endOffset": 292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 14434,
+                    "endColumn": 57,
+                    "endOffset": 14487
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 298,
+                        "endColumn": 57,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 269,
+                    "startColumn": 4,
+                    "startOffset": 14492,
+                    "endColumn": 65,
+                    "endOffset": 14553
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 357,
+                        "endColumn": 65,
+                        "endOffset": 418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 270,
+                    "startColumn": 4,
+                    "startOffset": 14558,
+                    "endColumn": 49,
+                    "endOffset": 14603
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 637,
+                        "endColumn": 49,
+                        "endOffset": 682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 271,
+                    "startColumn": 4,
+                    "startOffset": 14608,
+                    "endColumn": 53,
+                    "endOffset": 14657
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 688,
+                        "endColumn": 53,
+                        "endOffset": 737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 272,
+                    "startColumn": 4,
+                    "startOffset": 14662,
+                    "endColumn": 55,
+                    "endOffset": 14713
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 743,
+                        "endColumn": 55,
+                        "endOffset": 794
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 14718,
+                    "endColumn": 63,
+                    "endOffset": 14777
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 800,
+                        "endColumn": 63,
+                        "endOffset": 859
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 14782,
+                    "endColumn": 93,
+                    "endOffset": 14871
+                },
+                "from": {
+                    "file": "E:\\workspace\\WIFICracker\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1185,
+                        "endColumn": 93,
+                        "endOffset": 1274
+                    }
+                }
+            }
+        ]
+    }
+]
